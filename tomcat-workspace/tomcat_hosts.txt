@@ -1,0 +1,5 @@
+# Add one host or user@host entry per line.
+# Example:
+# devops@192.168.56.13
+# devops@192.168.56.14
+# devops@192.168.56.15
